@@ -10,7 +10,7 @@ Currently a senior in high school
 - Doctorate in Cryptography
 
 ## Fun projects
-<li><a href=https://github.com/Blooper7/Neural-Network-Framework>Neural Network Framework</a></li>
-<li><a href=https://github.com/Blooper7/Kernel-Base>Kernel Base</a></li>
-<li><a href=https://github.com/Blooper7/Socket-Server>Socket Server</a></li>
-<li><a href=https://github.com/Blooper7/Python-E>Python-E</a></li>
+- <a href=https://github.com/Blooper7/Neural-Network-Framework>Neural Network Framework</a>
+- <a href=https://github.com/Blooper7/Kernel-Base>Kernel Base</a>
+- <a href=https://github.com/Blooper7/Socket-Server>Socket Server</a><
+- <a href=https://github.com/Blooper7/Python-E>Python-E</a>
