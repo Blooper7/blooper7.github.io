@@ -12,5 +12,5 @@ Currently a senior in high school
 ## Fun projects
 - <a href=https://github.com/Blooper7/Neural-Network-Framework>Neural Network Framework</a>
 - <a href=https://github.com/Blooper7/Kernel-Base>Kernel Base</a>
-- <a href=https://github.com/Blooper7/Socket-Server>Socket Server</a><
+- <a href=https://github.com/Blooper7/Socket-Server>Socket Server</a>
 - <a href=https://github.com/Blooper7/Python-E>Python-E</a>
